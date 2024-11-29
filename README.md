@@ -12,7 +12,6 @@ This project is a simple Single Page Application (SPA) built using React. It con
 - [File Structure](#file-structure)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [App.js Code](#appjs-code)
 - [Components Overview](#components-overview)
 
 ---
